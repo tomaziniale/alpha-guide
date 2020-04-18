@@ -56,7 +56,7 @@ some skill books, some modules, and a decent chunk of ISK.
 #### Common Stumbling Blocks
 
  * In mission 2 of 10, **your ship will be destroyed**.  You must use a Frigate.
-   It does not have to be the one provided to you by the Mission Agent - use whichever you like least.
+   It has to be the one provided to you by the Mission Agent, otherwise the Acceleration Gate won't activate.
    The ship does not require any modules fit to complete the mission.
  * In mission 3 of 10, note that you need to Warp Disrupt the pirate, not destroy them.
  * In mission 5 of 10, **your ship will be destroyed**.  You can use any ship;
